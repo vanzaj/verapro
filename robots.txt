@@ -1,1 +1,1 @@
-Sitemap: https://vera.pro/sitemap.xml
+Sitemap: https://vanzaj.github.io/verapro/sitemap.xml
