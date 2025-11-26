@@ -1,0 +1,13 @@
+---
+title: "The Sermon on the Fall of Rome"
+subtitle: "by Jérôme Ferrari"
+page-layout: full
+title-block-banner: false
+toc: false
+about:
+  template: jolla
+  image: assets/fall-of-rome-cover_en.jpg
+---
+
+The Sermon on the Fall of Rome (French: Le Sermon sur la chute de Rome) is a novel by the French writer Jérôme Ferrari, published in 2012. The book received the Prix Goncourt in 2012. It was translated to Russian from the original French by Vera Kolesina.
+
