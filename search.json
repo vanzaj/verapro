@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "legal/index.html",
+    "href": "legal/index.html",
+    "title": "Translation of legal cases",
+    "section": "",
+    "text": "Here you can find my work in legal translations.\nCase 1:…\nCase 2:…"
+  },
+  {
     "objectID": "about_fr.html",
     "href": "about_fr.html",
     "title": "Vera Kolesina",
@@ -25,6 +32,6 @@
     "href": "index.html",
     "title": "Vera Kolessina",
     "section": "",
-    "text": "Hi! I’m Vera. This is my personal website. Here you can find about my writing and translation work. I am a licensed legal translator EN-FR. And I also translate books and articles. You can get in touch if you want to … ???\n👩‍💻 about (en) | a propos (fr)\n📚 legal\n🎓 literature\n\n\n\n\n\n\nNoteIn which language is this website?\n\n\n\nMy native language is Russian, but professionally I work mostly with French and English."
+    "text": "Hi! I’m Vera. This is my personal website. Here you can find about my writing and translation work. I am a licensed legal translator EN-FR. And I also translate books and articles. You can get in touch if you want to … ???\n👩‍💻 about (en) | a propos (fr)\n📚 legal\n🎓 literature\n:::"
   }
 ]
