@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://veras.pro/about_fr.html</loc>
+    <loc>https://vanzaj.github.io/verapro/about_fr.html</loc>
     <lastmod>2025-11-26T15:07:30.093Z</lastmod>
   </url>
   <url>
-    <loc>https://veras.pro/about_en.html</loc>
+    <loc>https://vanzaj.github.io/verapro/lit/index.html</loc>
+    <lastmod>2025-11-26T16:25:14.842Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vanzaj.github.io/verapro/about_en.html</loc>
     <lastmod>2025-11-26T15:07:30.092Z</lastmod>
   </url>
   <url>
-    <loc>https://veras.pro/index.html</loc>
+    <loc>https://vanzaj.github.io/verapro/index.html</loc>
     <lastmod>2025-11-26T15:07:30.195Z</lastmod>
   </url>
 </urlset>
