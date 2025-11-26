@@ -6,8 +6,6 @@ project:
 website:
   page-navigation: true
   title: "Vera Kolesina"
-  site-url: "https://vera.pro/"
-  google-analytics: "G-xxxxxxxxxx"
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/), by Vera Kolesina. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right:
