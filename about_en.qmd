@@ -1,0 +1,34 @@
+---
+title: "Vera Kolessina "
+image: assets/vera_pro.jpg
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:hello@vera.pro
+    - text: "Bluesky"
+      href: https://bsky.app/profile/verakol.bsky.social           
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/verakol/  
+    - text: "Translators pro"
+      href: https://www.translators.com/verakolesina/
+---
+
+<center>
+
+::: {.btn-group role="group" aria-label="About"}
+<a href="about_en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a>
+<a href="about_fr.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Francais</button></a>
+:::
+
+</center>
+
+::: {#hero-heading}
+
+- **Professional accreditations:** Vera Kolesina is a damn good translator..
+
+- **Lit translatitions:** Since 1999, she has been part of the secret translators club.
+
+:::

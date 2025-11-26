@@ -1,0 +1,25 @@
+---
+title: "Vera Kolessina"
+subtitle: "Professional translator"
+page-layout: full
+title-block-banner: false
+toc: false
+about:
+  template: jolla
+  image: assets/vera_pro.jpg
+---
+
+Hi! I'm Vera. This is my **personal website**. Here you can find about my writing and translation work. I am a licensed legal translator EN-FR. And I also translate books and articles. You can [get in touch](mailto:%20hello@vera.pro) if you want to ... ???
+
+👩‍💻 [about](about_en.qmd) (en) \| [a propos](about_fr.qmd) (fr)
+
+📚 [legal](legal/index.qmd)
+
+🎓 [literature](lit/index.qmd)
+
+
+::: callout-note
+## In which language is this website?
+
+My native language is Russian, but professionally I work mostly with French and English. 
+:::

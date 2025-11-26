@@ -1,0 +1,56 @@
+project:
+  type: website
+  preview:
+    port: 4200
+
+website:
+  page-navigation: true
+  title: "Vera Kolesina"
+  site-url: "https://vera.pro/"
+  google-analytics: "G-xxxxxxxxxx"
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/), by Vera Kolesina. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right:
+      - icon: envelope
+        href: mailto:hello@vera.pro
+      - icon: linkedin
+        href: https://www.linkedin.com/in/verakolesina/
+      - text: "{{< translators pro >}}"
+        href: https://translators.com/vk
+
+  navbar:
+    right:
+      - text: About
+        menu:
+          - text: English
+            href: about_en.qmd
+          - text: Francais
+            href: about_fr.qmd
+      - text: Legal work
+        menu:
+          - text: Business
+            href: legal/business.qmd
+          - text: Criminal
+            href: legal/criminal.qmd
+      - text: Translations
+        href: translations/index.qmd
+      - text: Other projects
+        href: projects/index.qmd
+
+lang: en
+
+format:
+  html:
+    link-external-icon: true
+    link-external-newwindow: true
+    smooth-scroll: true
+    theme:
+      - pulse
+      - custom.scss
+    citations-hover: true
+    footnotes-hover: true
+    toc: true
+    code-link: true
+
+execute:
+  freeze: true
