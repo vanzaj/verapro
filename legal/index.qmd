@@ -1,0 +1,16 @@
+---
+title: "Translation of legal cases"
+page-layout: full
+title-block-banner: false
+toc: false
+about:
+  template: jolla
+  image: assets/legal-attributes.jpg
+---
+
+Here you can find my work in legal translations.
+
+Case 1:...
+
+Case 2:...
+

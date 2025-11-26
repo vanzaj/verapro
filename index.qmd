@@ -17,9 +17,4 @@ Hi! I'm Vera. This is my **personal website**. Here you can find about my writin
 
 🎓 [literature](lit/index.qmd)
 
-
-::: callout-note
-## In which language is this website?
-
-My native language is Russian, but professionally I work mostly with French and English. 
 :::
